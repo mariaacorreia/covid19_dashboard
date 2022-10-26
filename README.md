@@ -2,5 +2,3 @@
 Interactive Dashboard based on Public Health Data
 
 
-![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mariaacorreia/covid19_dashboard/HEAD?labpath=%2Fvoila%2Frender%2FCOVID19_DASHBOARD.ipynb)
-Copy markdown link to clipboard
